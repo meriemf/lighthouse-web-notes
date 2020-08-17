@@ -6,6 +6,6 @@ This repository contains all of the notes taken by [Meriemf](https://github.com/
  for the Lighthouse Labs Web Development Bootcamp.kk
 
 # Table of Contents
-* [Week 1](/vagrant/lighthouse-web-notes/Week_1)
-  * [Day 1](/vagrant/lighthouse-web-notes/Week_1/Day_1
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1
 )
